@@ -36,8 +36,8 @@ uint8_t state;
 uint8_t id = 13; //TEAM ID
 
 
-char network[] = "NAMY2.4";  //SSID CHANGE!!
-char password[] = "QuynhThy9605!"; //Password for WiFi CHANGE!!!
+char network[] = "";  //SSID CHANGE!!
+char password[] = ""; //Password for WiFi CHANGE!!!
 
 
 void setup() {
