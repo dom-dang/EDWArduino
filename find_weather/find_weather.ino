@@ -35,8 +35,8 @@ uint8_t state;
 #define PUSH 1
 #define RELEASE 2
 
-char network[] = "NAMY";  //SSID CHANGE!!
-char password[] = "QuynhThy9605!"; //Password for WiFi CHANGE!!!
+char network[] = "";  //SSID CHANGE!!
+char password[] = ""; //Password for WiFi CHANGE!!!
 
 
 void setup() {
