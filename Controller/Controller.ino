@@ -26,8 +26,8 @@ uint8_t left;
 int id = 0; //TEAM ID
 
 
-char network[] = "NAMY2.4";  //SSID CHANGE!!
-char password[] = "QuynhThy9605!"; //Password for WiFi CHANGE!!!
+char network[] = "";  //SSID CHANGE!!
+char password[] = ""; //Password for WiFi CHANGE!!!
 
 
 void setup() {
